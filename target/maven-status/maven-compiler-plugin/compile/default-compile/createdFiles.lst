@@ -1,0 +1,9 @@
+com/techprimers/spring_boot_soap_example/User.class
+com/techprimers/spring_boot_soap_example/package-info.class
+com/mordsi/springsoap/SoapWebServiceConfig.class
+com/techprimers/spring_boot_soap_example/ObjectFactory.class
+com/mordsi/springsoap/SpringSoapApplication.class
+com/mordsi/springsoap/UserService.class
+com/techprimers/spring_boot_soap_example/GetUserResponse.class
+com/mordsi/springsoap/UserEndpoint.class
+com/techprimers/spring_boot_soap_example/GetUserRequest.class
